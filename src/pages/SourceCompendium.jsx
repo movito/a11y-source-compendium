@@ -357,7 +357,7 @@ function SourceRow({ source, isLast }) {
         display: "grid",
         gridTemplateColumns: "1fr auto",
         gap: "12px",
-        padding: "14px 20px",
+        padding: "14px 20px 14px 70px",
         borderBottom: isLast ? "none" : `1px solid ${COLORS.borderLight}`,
         backgroundColor: hovered ? COLORS.surfaceHover : "transparent",
         transition: "background-color 150ms ease",
@@ -413,7 +413,7 @@ function LectureSection({ section }) {
   return (
     <div style={{ marginBottom: 0 }}>
       <div style={{
-        padding: "10px 20px",
+        padding: "10px 20px 10px 70px",
         backgroundColor: COLORS.surfaceHover,
         borderBottom: `1px solid ${COLORS.borderLight}`,
         display: "flex",
