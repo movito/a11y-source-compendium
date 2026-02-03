@@ -76,7 +76,7 @@ const DATA = [
           { name: "Scope UK: Social Model of Disability", url: "https://www.scope.org.uk/about-us/social-model-of-disability/", type: "Introduction", desc: "Clear explanation of the social model from a leading UK disability charity. Good starting point for students new to disability theory." },
           { name: "IAAP CPACC Body of Knowledge, pp. 4–12", url: "https://www.accessibilityassociation.org/sfsites/c/resource/CPACCBoK", type: "Reference", desc: "Comprehensive comparison of medical, social, biopsychosocial, economic, and charity models. The professional certification standard." },
           { name: "WHO International Classification of Functioning (ICF)", url: "https://www.who.int/standards/classifications/international-classification-of-functioning-disability-and-health", type: "Framework", desc: "The WHO's biopsychosocial framework integrating biological, individual, and social perspectives. Foundational for modern disability policy." },
-          { name: "Kat Holmes: Mismatch", url: null, type: "Book", desc: "Inclusive design philosophy framing disability as a mismatch between person and environment. Author led Microsoft's inclusive design program. ISBN 978-0262539487." },
+          { name: "Kat Holmes: Mismatch", url: "https://mitpress.mit.edu/9780262539487/mismatch/", type: "Book", desc: "Inclusive design philosophy framing disability as a mismatch between person and environment. Author led Microsoft's inclusive design program. ISBN 978-0262539487." },
         ],
       },
       {
