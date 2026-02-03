@@ -290,11 +290,11 @@ const SUPPLEMENTARY = [
   {
     title: "Books for Deeper Study",
     sources: [
-      { name: "A Web for Everyone", url: null, type: "Book", desc: "Sarah Horton & Whitney Quesenbery. Comprehensive guide to accessible web design covering both principles and practices." },
-      { name: "Inclusive Design Patterns", url: null, type: "Book", desc: "Heydon Pickering. Practical patterns for building inclusive interfaces. Code-focused but design-relevant." },
-      { name: "Mismatch: How Inclusion Shapes Design", url: null, type: "Book", desc: "Kat Holmes. Philosophical foundation for inclusive design. Based on work at Microsoft." },
-      { name: "Accessibility for Everyone", url: null, type: "Book", desc: "Laura Kalbag. Accessible introduction to web accessibility for non-specialists. Good starter text." },
-      { name: "Form Design Patterns", url: null, type: "Book", desc: "Adam Silver. Deep dive into accessible form design. Highly practical for interaction designers." },
+      { name: "A Web for Everyone", url: "https://rosenfeldmedia.com/books/a-web-for-everyone/", type: "Book", desc: "Sarah Horton & Whitney Quesenbery. Comprehensive guide to accessible web design covering both principles and practices." },
+      { name: "Inclusive Design Patterns", url: "https://www.smashingmagazine.com/printed-books/inclusive-front-end-design-patterns/", type: "Book", desc: "Heydon Pickering. Practical patterns for building inclusive interfaces. Code-focused but design-relevant." },
+      { name: "Mismatch: How Inclusion Shapes Design", url: "https://mitpress.mit.edu/9780262539487/mismatch/", type: "Book", desc: "Kat Holmes. Philosophical foundation for inclusive design. Based on work at Microsoft." },
+      { name: "Accessibility for Everyone", url: "https://abookapart.com/products/accessibility-for-everyone", type: "Book", desc: "Laura Kalbag. Accessible introduction to web accessibility for non-specialists. Good starter text." },
+      { name: "Form Design Patterns", url: "https://www.smashingmagazine.com/printed-books/form-design-patterns/", type: "Book", desc: "Adam Silver. Deep dive into accessible form design. Highly practical for interaction designers." },
     ],
   },
   {
