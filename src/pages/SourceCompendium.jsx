@@ -413,7 +413,7 @@ function LectureSection({ section }) {
   return (
     <div style={{ marginBottom: 0 }}>
       <div style={{
-        padding: "10px 20px 10px 70px",
+        padding: "10px 20px",
         backgroundColor: COLORS.surfaceHover,
         borderBottom: `1px solid ${COLORS.borderLight}`,
         display: "flex",
